@@ -26,3 +26,4 @@ If you have any questions, please call 1-800-Definitely-Legal.
 Copyright (c) 2016 **Ewa Manek, Katy Henning**
 
 This software is licensed under the MIT license
+The content of this site is meant to be humorous and should not be taken seriously. 
