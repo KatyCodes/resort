@@ -1,0 +1,47 @@
+h1 {
+  text-align:center;
+  font-size: 300%;
+  text-decoration: underline;
+  font-family:cursive;
+  color: #000099;
+}
+
+p {
+    font-size: large;
+    line-height: 25px;
+}
+
+ul {
+  text-align: center;
+  margin: 0 0 0 -40px;
+}
+
+ul li{
+  display: inline;
+  padding: 0 10px;
+  font-size: x-large;
+  background-color: white;
+  }
+
+ol {
+  font-size: large;
+  line-height: 25px;
+
+}
+
+h2 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 10px auto 0;
+  border-width: thick;
+  border-style: solid;
+  border-color: #000099;
+}
+
+body {
+  padding: 0 10%;
+  background-color:#cce6ff;
+}
