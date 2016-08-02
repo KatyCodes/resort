@@ -1,9 +1,9 @@
 h1 {
   text-align:center;
-  font-size: 300%;
-  text-decoration: underline;
-  font-family:cursive;
-  color: #000099;
+  font-size: 400%;
+  text-shadow: 2px 2px 4px #ffffff;
+  font-family: fantasy;
+  color:#ccffff;
 }
 
 p {
@@ -13,7 +13,7 @@ p {
 
 ul {
   text-align: center;
-  margin: 0 0 0 -40px;
+  margin: -30px 0 0 -40px;
 }
 
 ul li{
@@ -21,6 +21,7 @@ ul li{
   padding: 0 10px;
   font-size: x-large;
   background-color: white;
+  font-style: italic;
   }
 
 ol {
@@ -36,12 +37,11 @@ h2 {
 img {
   display: block;
   margin: 10px auto 0;
-  border-width: thick;
-  border-style: solid;
-  border-color: #000099;
+  border-radius: 5%;
 }
 
 body {
   padding: 0 10%;
-  background-color:#cce6ff;
+  background-color: #4d0026;
+  color: #ffffff;
 }
